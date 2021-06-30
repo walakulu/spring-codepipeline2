@@ -11,7 +11,7 @@ public class SpringCodepipelineApplication {
 
 	@RequestMapping("/")
 	public String home() {
-		return "Response From Micro-Service -2";
+		return "Response : Micro-Service -2";
 	}
 
 
